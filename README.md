@@ -1,6 +1,8 @@
 stem-cell-detector
 ===========
 
+<img src="https://github.com/zs-zhuang/stem-cell-detector/blob/main/examples/example5_original.JPG"> <img src="https://github.com/zs-zhuang/stem-cell-detector/blob/main/examples/example5_result.JPG">
+
 # Summary
 
 This repository contains scripts that segment images of stem cell colonies on petri dishes (see example original and result images).
