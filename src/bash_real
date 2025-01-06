@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+./extract_features_RealData.py Yang_diff 11
+
+
+wc feature_* 
+wc position_*
+
+mv feature_* position_* ../
